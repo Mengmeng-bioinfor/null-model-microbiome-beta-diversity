@@ -31,11 +31,11 @@ Rscript scripts/null_model_analysis.R
 python scripts/beta_diversity_plot.py
 ```
 ## 📊 Methods
-Beta diversity metrics: Bray-Curtis, Jaccard, UniFrac
-Null model: Raup-Crick (RC_bray, RC_unifrac)
-Statistical testing: PERMANOVA, Mantel test
-Visualization: NMDS, PCoA
+- Beta diversity metrics: Bray-Curtis, Jaccard, UniFrac
+- Null model: Raup-Crick (RC_bray, RC_unifrac)
+- Statistical testing: PERMANOVA, Mantel test
+- Visualization: NMDS, PCoA
 
 ## 📚 References
-Chase JM, Kraft NJB, Smith KG, Vellend M, Inouye BD. (2011). Using null models to disentangle variation in community dissimilarity from variation in alpha diversity.
-Stegen JC et al. (2013). Quantifying community assembly processes and identifying environmental drivers of microbial communities.
+- Chase JM, Kraft NJB, Smith KG, Vellend M, Inouye BD. (2011). Using null models to disentangle variation in community dissimilarity from variation in alpha diversity.
+- Stegen JC et al. (2013). Quantifying community assembly processes and identifying environmental drivers of microbial communities.

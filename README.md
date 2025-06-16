@@ -147,7 +147,10 @@ In microbial ecology, a **null model** is a statistical framework used to determ
 - **Beta Diversity Correction**: Separate environmental signals from random noise in dissimilarity indices.
 - **Functional Community Analysis**: Evaluate whether key microbial functions (e.g., nitrogen cycling) show non-random patterns.
 
----
+![Beta_Diversity_Heatmap](results/Beta_Diversity_Heatmap.png)
+![Environmental Factors vs Group Beta Diversity](results/Environmental%20Factors%20vs%20Group%20Beta%20Diversity%2002.png)
+![Environmental_Correlation.png](results/Environmental%20Correlation.png)
+![PCoA_With_Ellipses](results/PCoA%20With%20Ellipses.png)
 
 ## 6. General Steps for Applying Null Models
 

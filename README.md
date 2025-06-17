@@ -151,6 +151,8 @@ In microbial ecology, a **null model** is a statistical framework used to determ
 ![Environmental Factors vs Group Beta Diversity](results/Environmental%20Factors%20vs%20Group%20Beta%20Diversity%2002.png)
 ![Environmental_Correlation.png](results/Environmental_Correlation.png)
 ![PCoA_With_Ellipses](results/PCoA_With_Ellipses.png)
+![SES_Distribution](results/SES_Distribution.png)
+![Variation_Partition](results/Variation%20Partition.png)
 
 ## 6. General Steps for Applying Null Models
 
